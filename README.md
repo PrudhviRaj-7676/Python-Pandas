@@ -1,3 +1,3 @@
-# Python-Pandas
+# Cleaning Data with Pandas
 # Resources
 Tidy Data Paper: http://vita.had.co.nz/papers/tidy-data.pdf
